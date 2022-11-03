@@ -654,6 +654,20 @@ a {
     color: #575757!important;
 }
 
+.citation{
+    font-family: "helvetica";
+    font-weight: 300;
+    font-size: 1.4em;
+    line-height: 120%;
+}
+
+.auteur_citation{
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light";
+    font-weight: lighter;
+    font-size: 1.5em;
+    line-height: 40%;
+}
+
 .container {
     max-width: 1000px;
 }
