@@ -530,6 +530,13 @@ button {
     opacity: 1;
 }
 
+@media (max-width: 767px) {
+    .col-sm-6 img{
+        max-width: 91%;
+        margin-left: 4%;
+    }
+}
+
 a[data-lightbox] {
     position: relative;
     display: block;
@@ -836,7 +843,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
