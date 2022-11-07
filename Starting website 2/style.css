@@ -7,7 +7,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-a,
+nav a,
 button {
     transition: all .3s ease-in-out;
     outline: none!important;
