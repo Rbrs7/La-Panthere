@@ -537,6 +537,10 @@ button {
     }
 }
 
+#bloc-7 a{
+    text-decoration: underline;
+}
+
 a[data-lightbox] {
     position: relative;
     display: block;
